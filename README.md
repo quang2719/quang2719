@@ -1,9 +1,18 @@
+<div align="center">
 
-## 🌐Socials
+# 📊GitHub Stats :
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/QuangNguyen) 
+<img src="https://github-readme-stats.vercel.app/api?username=quang2719&theme=city_light&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quang2719&theme=city_light&hide_border=true" alt="GitHub Streak">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang2719&theme=city_light&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
 
+---
+
+[<img src="https://visitcount.itsvg.in/api?id=quang2719&icon=0&color=0" alt="Visit Count">](https://visitcount.itsvg.in)
+
+</div>
 
 # 💻Tech Stack
 <div align="center">
@@ -18,9 +27,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
-
 <br>
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
@@ -30,10 +37,8 @@
 </div>
 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=quang2719&theme=city_light&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=quang2719&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quang2719&theme=city_light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 🌐Socials
 
----
-[![](https://visitcount.itsvg.in/api?id=quang2719&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/QuangNguyen) 
+
