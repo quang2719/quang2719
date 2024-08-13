@@ -1,43 +1,39 @@
-## Welcome to Trong Ngo Van's GitHub Profile 👋
 
-<p align="center">
-  <a href="https://www.facebook.com/ngovantrong1308?locale=vi_VN" target="_blank" style="text-decoration: none;">
-    <span style="font-size: 28px; font-weight: bold; color: #2c3e50;">
-      👋 Hello, I'm Trong, Ngo Van. I research about Data Science and Artificial Intelligence! 🚀
-    </span>
-  </a>
-</p>
+## 🌐Socials
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/QuangNguyen) 
+
+
+# 💻Tech Stack
 <div align="center">
-  <h2>📊 Trong Ngo Van's GitHub Status</h2>
-    <a href="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false&hide=contribs" alt="GitHub Stats" />
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </a>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
+
+<br>
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+
 </div>
 
-<div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=TrongNgoVan&theme=vue&hide_border=false" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrongNgoVan&theme=vue&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=quang2719&theme=city_light&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=quang2719&theme=city_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quang2719&theme=city_light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
-## About me ##
-- 💼 :  I’m currently studying on PTIT (Posts and Telecommunications Institute of Technology).
-- ❤️ :  I'm researching about Data Science and Artificial Intelligence
-- 💬 Ask me about anything [Facebook](https://www.facebook.com/ngovantrong1308?locale=vi_VN) 
-- 📺 Watch me on [YouTube](https://www.youtube.com/@Trong_NV) 
-
-
----
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngovantrong1308?locale=vi_VN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Trong_NV)
-
-
-<a href="https://visitcount.itsvg.in" target="_blank">
-  <img src="https://visitcount.itsvg.in/api?id=TrongNgoVan&icon=0&color=1" alt="Visit Count" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=quang2719&icon=0&color=0)](https://visitcount.itsvg.in)
