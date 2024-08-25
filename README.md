@@ -36,6 +36,14 @@
 
 </div>
 
+## My AI Learning Journey
+
+Documenting my self-learning journey in the world of Artificial Intelligence.
+
+[![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://coordinated-title-01a.notion.site/My-AI-Learning-Journey-8124279014fb4bb1a1100fadc0415557?pvs=4)
+
+## My badge
+![My badge](https://www.credly.com/badges/a2d3322f-0f9b-4308-a995-b0a17c9e182c/public_url)
 
 ## 🌐Socials
 
