@@ -47,8 +47,8 @@ Documenting my self-learning journey in the world of Artificial Intelligence.
 [![My badge](https://images.credly.com/size/215x215/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)](https://www.credly.com/badges/4e961d91-3203-4746-a456-db563b6c7388)
 [![My badge](https://images.credly.com/size/215x215/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)](https://credly.com/badges/549c1de1-7599-492f-a9a9-4b4fd4e20ee6)
 <br>
-[![My badge](https://images.credly.com/size/330x330/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](https://www.credly.com/badges/fb95d9f4-a200-4cf1-836b-da8765c9b01f)
-[![My badge](https://images.credly.com/size/300x300/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/fb42921e-72ef-433e-9017-4af0f0863f0c)<br>
+[![My badge](https://images.credly.com/size/300x300/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](https://www.credly.com/badges/fb95d9f4-a200-4cf1-836b-da8765c9b01f)
+<!--[![My badge](https://images.credly.com/size/300x300/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/fb42921e-72ef-433e-9017-4af0f0863f0c)<br>-->
 [![My badge](https://images.credly.com/size/215x215/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)](https://www.credly.com/badges/6204f4ab-14a7-4ceb-b3e9-fe2547a268e3)
 [![My badge](https://images.credly.com/size/215x215/images/5ce4d440-596a-4598-a106-358e64c05e5e/image.png)](https://www.credly.com/badges/7c49d966-202e-450a-a1d7-fc419880a50a)
 [![My badge](https://images.credly.com/size/215x215/images/19878499-c3d3-4e67-8b97-8ec273187ccd/image.png)](https://www.credly.com/badges/af422515-1bf7-4730-a28d-3024ab2e8777)
