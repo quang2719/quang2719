@@ -43,12 +43,12 @@ Documenting my self-learning journey in the world of Artificial Intelligence.
 [![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://coordinated-title-01a.notion.site/My-AI-Learning-Journey-8124279014fb4bb1a1100fadc0415557?pvs=4)
 
 ## My badge
-[![My badge](https://images.credly.com/size/215x215/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png)](https://www.credly.com/badges/5148a122-0e2c-4741-92ec-85bffc7f143e)
-[![My badge](https://images.credly.com/size/215x215/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)](https://www.credly.com/badges/4e961d91-3203-4746-a456-db563b6c7388)
-[![My badge](https://images.credly.com/size/215x215/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)](https://credly.com/badges/549c1de1-7599-492f-a9a9-4b4fd4e20ee6)
+[![My badge](https://images.credly.com/size/100x100/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png)](https://www.credly.com/badges/5148a122-0e2c-4741-92ec-85bffc7f143e)
+[![My badge](https://images.credly.com/size/100x100/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)](https://www.credly.com/badges/4e961d91-3203-4746-a456-db563b6c7388)
+[![My badge](https://images.credly.com/size/100x100/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)](https://credly.com/badges/549c1de1-7599-492f-a9a9-4b4fd4e20ee6)
 <br>
-[![My badge](https://images.credly.com/size/250x250/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](https://www.credly.com/badges/fb95d9f4-a200-4cf1-836b-da8765c9b01f)
-[![My badge](https://images.credly.com/size/215x215/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)](https://www.credly.com/badges/6204f4ab-14a7-4ceb-b3e9-fe2547a268e3)
+[![My badge](https://images.credly.com/size/100x100/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](https://www.credly.com/badges/fb95d9f4-a200-4cf1-836b-da8765c9b01f)
+[![My badge](https://images.credly.com/size/100x100/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)](https://www.credly.com/badges/6204f4ab-14a7-4ceb-b3e9-fe2547a268e3)
 
 
 
