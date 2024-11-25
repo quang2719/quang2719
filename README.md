@@ -55,7 +55,7 @@ Documenting my self-learning journey in the world of Artificial Intelligence.
 [![My badge](https://images.credly.com/size/100x100/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png)](https://www.credly.com/badges/ae9d6222-7392-4ffb-b902-7885dddf2973)
 [![My badge](https://images.credly.com/size/100x100/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png)](https://www.credly.com/earner/earned/badge/bd5b8d91-1b3e-4f71-9757-891777f2d185)
 [![My badge](https://images.credly.com/size/100x100/images/51dff787-71ae-4d9d-9ca7-ef9342914d75/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/earner/earned/badge/28c7267c-fe4d-4625-a82b-780a17b053ac)
-[![My badge](https://images.credly.com/size/100x100/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](https://www.credly.com/badges/fb95d9f4-a200-4cf1-836b-da8765c9b01f)
+[![My badge](https://images.credly.com/size/100x100/images/e6f51001-ef22-4ad5-91e4-f9d577fe5a2e/blob)](https://www.credly.com/badges/fb95d9f4-a200-4cf1-836b-da8765c9b01f)
 [![My badge](https://images.credly.com/size/100x100/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/fb42921e-72ef-433e-9017-4af0f0863f0c)
 ## 🌐Contact
 
