@@ -40,3 +40,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nvq270403@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/nv_quang)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?logo=blogger&logoColor=white)](http://quang-personal-blogs.blogspot.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/nvq270403/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/b21dccn632nvquang)
